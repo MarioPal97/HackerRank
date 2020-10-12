@@ -13,7 +13,7 @@ The left-to-right diagonal =
 
 .
 
-Function description
+### Function description
 
 Complete the
 
@@ -23,7 +23,7 @@ diagonalDifference takes the following parameter:
 
     int arr[n][m]: an array of integers
 
-Return
+### Return
 
     int: the absolute diagonal difference
 
