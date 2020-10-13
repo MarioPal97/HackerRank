@@ -3,6 +3,7 @@ Given an array of integers, calculate the ratios of its elements that are positi
 
 ### Function Description
 Complete the plusMinus function in the editor below.
+
 plusMinus has the following parameter(s):
 
     int arr[n]: an array of integers
